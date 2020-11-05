@@ -8,7 +8,7 @@
 
 ![](./capturas/1.PNG)
 
-2. Descargar git de la pagina https://git-scm.com/download/
+2. Descargar e instalar git de la pagina https://git-scm.com/download/ Nota: Dar siguiente en cada pantalla de instalación.
 
 3. Crear carpeta en donde desea crear el proyecto.
 
