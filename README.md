@@ -38,6 +38,8 @@ npm run start
 ```
 8. Entrar a la dirección http://localhost:3000 en el navegador.
 
+Para parar el servidor teclear ``CTRL + c``
+
 ### Opcional
 Para agregar un nuevo entpoint, en el archivo app.controller.ts colocar:
 
