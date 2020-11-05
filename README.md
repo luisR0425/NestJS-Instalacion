@@ -36,6 +36,9 @@ cd example-project
 ```
 npm run start
 ```
+
+![](./capturas/5.PNG)
+
 8. Entrar a la dirección http://localhost:3000 en el navegador.
 
 Para parar el servidor teclear ``CTRL + c``
