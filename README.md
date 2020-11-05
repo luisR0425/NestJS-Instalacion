@@ -44,7 +44,7 @@ npm run start
 Para parar el servidor teclear ``CTRL + c``
 
 ### Opcional
-Para agregar un nuevo entpoint, en el archivo app.controller.ts colocar:
+Para agregar un nuevo endpoint, en el archivo app.controller.ts colocar:
 
 ```typescript
   @Get('helloworld')
