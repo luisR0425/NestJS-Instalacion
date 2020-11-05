@@ -39,7 +39,7 @@ npm run start
 8. Entrar a la dirección http://localhost:3000 en el navegador.
 
 ### Opcional
-Para agregar un nuevo entpoint, en el archivo app.controller.ts agregar:
+Para agregar un nuevo entpoint, en el archivo app.controller.ts colocar:
 
 ```typescript
   @Get('helloworld')
