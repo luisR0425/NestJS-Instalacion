@@ -12,7 +12,7 @@
 
 3. Crear carpeta en donde desea crear el proyecto.
 
-4. Abrir terminal y ejecutar.
+4. Abrir terminal de Git y ejecutar.
 ```bash
 npm i -g @nestjs/cli
 ```
