@@ -17,7 +17,7 @@
 npm i -g @nestjs/cli
 ```
 ```bash
-nest new example_project
+nest new example-project
 ```
 
 ![](./capturas/2.PNG)
@@ -30,7 +30,7 @@ nest new example_project
 
 6. Entrar al proyecto
 ```
-cd example_project
+cd example-project
 ```
 7. Ejecutar comando.
 ```
