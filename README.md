@@ -13,12 +13,12 @@
 3. Crear carpeta en donde desea crear el proyecto.
 
 4. Abrir terminal y ejecutar.
-``
+```bash
 npm i -g @nestjs/cli
-``
-``
+```
+```bash
 nest new example_project
-``
+```
 
 ![](./capturas/2.PNG)
 
@@ -29,13 +29,13 @@ nest new example_project
 ![](./capturas/4.PNG)
 
 6. Entrar al proyecto
-``
+```
 cd example_project
-``
+```
 7. Ejecutar comando.
-``
+```
 npm run start
-``
+```
 8. Entrar a la dirección http://localhost:3000 en el navegador.
 
 ### Opcional
